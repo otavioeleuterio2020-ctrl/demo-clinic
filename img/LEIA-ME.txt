@@ -1,3 +1,0 @@
-Coloque aqui as fotos reais (JPG/WebP). O site as carrega automaticamente:
-hero.jpg, sobre.jpg, equipe.jpg, galeria1.jpg, galeria2.jpg, galeria3.jpg, agendar.jpg
-Sem o arquivo, aparece um espaço reservado elegante.
